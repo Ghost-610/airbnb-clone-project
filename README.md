@@ -1,15 +1,19 @@
 # Airbnb Clone Project
+
 # Airbnb Clone Project
 
 ## Overview
+
 This is a simplified clone of the Airbnb platform. The project aims to replicate key functionalities such as listing accommodations, searching for places to stay, and booking a room.
 
 ## Project Goals
+
 - Build a fully responsive front-end UI inspired by Airbnb.
 - Integrate a back-end service for handling user data, listings, and bookings.
 - Learn and apply full-stack development principles.
 
 ## Tech Stack
+
 - **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
@@ -17,12 +21,28 @@ This is a simplified clone of the Airbnb platform. The project aims to replicate
 - **Deployment:** Vercel or Netlify (frontend), Render or Railway (backend)
 
 ## Getting Started
+
 To clone the repository:
+
 ```bash
 git clone https://github.com/Ghost-610/airbnb-clone-project
 
 
 ## UI/UX Design Planning
+
+##Project Roles and Responsibilities.
+
+
+Role	|| Responsibilities
+Project Manager:	Oversees timeline, coordinates team, manages deliverables
+Frontend Developers:	Implements UI components, ensures responsive design
+Backend Developers:	Builds APIs, manages database, implements business logic
+Designers:	Creates mockups, maintains design system, ensures UX quality
+QA/Testers:	Writes test cases, performs testing, reports bugs
+DevOps Engineers:	Manages deployment, CI/CD pipeline, server infrastructure
+Product Owner:	Defines requirements, prioritizes features, represents stakeholders
+Scrum Master:	Facilitates agile processes, removes blockers, organizes meetings
+
 
 ### Color Styles
 
@@ -110,3 +130,4 @@ A user-friendly design is critical for enhancing the overall user experience in 
 
 Designing with the end-user in mind improves engagement, boosts reliability, and leads to greater customer satisfaction—especially in platforms that involve financial transactions and personal data entry.
 
+```
