@@ -130,4 +130,42 @@ A user-friendly design is critical for enhancing the overall user experience in 
 
 Designing with the end-user in mind improves engagement, boosts reliability, and leads to greater customer satisfaction—especially in platforms that involve financial transactions and personal data entry.
 
+
+## UI Component Patterns
+
+To maintain a modular and scalable design system, the project will include reusable UI components. These components will help keep the codebase organized and ensure consistency across the user interface.
+
+### Planned Components
+
+#### 1. Navbar
+A responsive top navigation bar that will be visible across all major pages. It will include:
+- Logo (clickable and routes to homepage)
+- Search bar or location input
+- User navigation (login/signup or profile dropdown)
+- Mobile-friendly hamburger menu for smaller screens
+
+#### 2. Property Card
+A card layout used to display property summaries in grid format on the Property Listing page. It will include:
+- Property image (with hover effect)
+- Property title and location
+- Price per night
+- Rating and review count
+- Favorite/like button
+
+#### 3. Footer
+A global footer visible on all pages. It will provide:
+- Useful links (e.g., About, Help, Terms, Privacy)
+- Company information and copyright
+- Social media icons and external links
+
+---
+
+### Component Design Goals
+- Components should be reusable and isolated
+- Follow consistent styling based on the design system
+- Fully responsive for mobile, tablet, and desktop views
+- Accessible via keyboard and screen readers where applicable
+
+By breaking the UI into reusable components, we ensure scalability, reduce repetition, and speed up development across the team.
+
 ```
